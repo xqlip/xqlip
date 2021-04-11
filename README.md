@@ -10,10 +10,11 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=lin_terminal&theme=onedark)](https://github.com/xqlip/lin_terminal)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=tdd&theme=radical)](https://github.com/xqlip/tdd)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=restful-api-design-references&theme=nightowl)](https://github.com/xqlip/restful-api-design-references)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=django-choices&theme=dracula)](https://github.com/xqlip/django-choices)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=docker_practice&theme=tokyonight)](https://github.com/xqlip/docker_practice)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=geektime-ELK&theme=cobalt)](https://github.com/xqlip/geektime-ELK)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=restful-api-design-references&theme=nightowl)](https://github.com/xqlip/restful-api-design-references)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=docker_practice&theme=tokyonight)](https://github.com/xqlip/docker_practice)
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqlip&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
