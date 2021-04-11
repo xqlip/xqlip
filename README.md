@@ -4,7 +4,7 @@
 
 ###### My name is Xiao QingLin, China, Developer and Food Lover! I love languages, Reading and programming 🎈
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mallowigi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xqlip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![xiao qinglin's github stats](https://github-readme-stats.vercel.app/api?username=xqlip&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/xqlip)
 
