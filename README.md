@@ -8,12 +8,12 @@
 
 [![xiao qinglin's github stats](https://github-readme-stats.vercel.app/api?username=xqlip&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/xqlip)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=a-file-icon-web&theme=onedark)](https://github.com/xqlip/lin_terminal)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=material-theme-jetbrains&theme=radical)](https://github.com/xqlip/tdd)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=a-file-icon-idea&theme=nightowl)](https://github.com/rockyzhengwu/FoolNLTK)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=mtslack&theme=dracula)](https://github.com/xqlip/django-choices)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=material-dev-tools&theme=tokyonight)](https://github.com/xqlip/docker_practice)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=notifications-preview-github&theme=cobalt)](https://github.com/xqlip/geektime-ELK)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=lin_terminal&theme=onedark)](https://github.com/xqlip/lin_terminal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=tdd&theme=radical)](https://github.com/xqlip/tdd)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=FoolNLTK&theme=nightowl)](https://github.com/rockyzhengwu/FoolNLTK)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=django-choices&theme=dracula)](https://github.com/xqlip/django-choices)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=docker_practice&theme=tokyonight)](https://github.com/xqlip/docker_practice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=geektime-ELK&theme=cobalt)](https://github.com/xqlip/geektime-ELK)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqlip&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
