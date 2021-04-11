@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<!--
-**xqlip/xqlip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ###### Sup! Here's **Xiao QingLin**! 🤓 
 
 ###### My name is Xiao QingLin, China, Developer and Food Lover! I love languages, Reading and programming 🎈
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mallowigi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 [![xiao qinglin's github stats](https://github-readme-stats.vercel.app/api?username=xqlip&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/xqlip)
 
@@ -19,13 +16,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xqlip&repo=notifications-preview-github&theme=cobalt)](https://github.com/xqlip/geektime-ELK)
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqlip&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**mallowigi/mallowigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+**xqlip/xqlip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
